@@ -1,0 +1,33 @@
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\bin\Debug\netcoreapp2.2\Lab23 StarWarsAPI.deps.json
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\bin\Debug\netcoreapp2.2\Lab23 StarWarsAPI.runtimeconfig.json
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\bin\Debug\netcoreapp2.2\Lab23 StarWarsAPI.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\bin\Debug\netcoreapp2.2\Lab23 StarWarsAPI.dll
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.RazorAssemblyInfo.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.RazorAssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.TagHelpers.input.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.TagHelpers.output.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.RazorCoreGenerate.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\bin\Debug\netcoreapp2.2\Lab23 StarWarsAPI.pdb
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\bin\Debug\netcoreapp2.2\Lab23 StarWarsAPI.Views.dll
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\bin\Debug\netcoreapp2.2\Lab23 StarWarsAPI.Views.pdb
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.Views.pdb
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.dll
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.pdb
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Lab23 StarWarsAPI.csproj.CopyComplete
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\SW\Index.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\SW\ResultPlanet.g.cshtml.cs
+C:\Users\Jense\source\repos\Lab23 StarWarsAPI\Lab23 StarWarsAPI\obj\Debug\netcoreapp2.2\Razor\Views\SW\ResultPerson.g.cshtml.cs
